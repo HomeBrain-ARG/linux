@@ -18,3 +18,4 @@ requirements for building and running the kernel, and information about
 the problems which may result by upgrading your kernel.
 
 The idea of the current fork is to practice using the original kernel of linux.
+We have the ideo to analyze the behaviour of this kernel associated to AI algorithms.
